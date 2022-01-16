@@ -1,0 +1,27 @@
+name: "wang  \n huaj"
+name1: 'kuang \n shen'
+pets: [cat,dog,pig]
+pets2: a,b,v
+
+
+person:
+    name: qinjiang
+    age: 3
+    happy: false
+    birth: 2000/01/01
+    maps: {k1: v1,k2: v2}
+    lists:
+        - code
+        - girl
+        - music
+    dog:
+        name: huang
+        age: 1
+debug: true #????????????????
+
+
+#??????
+spring:
+    mvc:
+        favicon:
+            enabled: false

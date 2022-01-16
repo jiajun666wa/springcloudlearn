@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:shiro="http://www.pollix.at/thymeleaf/shiro">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+
+<shiro:authenticated><shiro:principal/>已认证</shiro:authenticated>
+
+    <h1>欢迎使用Shiro</h1>
+        <p style="color: chocolate" th:text="${msg}"></p>
+
+    <div th:if="${session.currentUser==null}">
+        <a th:href="@{/toLogin}">登录</a>
+    </div>
+
+    <div th:if="${session.currentUser==null}">
+        <a th:href="@{/toRegister}">注册</a>
+    </div>
+    <div th:if="${session.currentUser!=null}">
+        <a th:href="@{/logout}" >退出</a>
+    </div>
+
+    <div shiro:hasPermission="user:add">
+        <a th:href="@{/user/add}">add</a>
+    </div>
+    <div shiro:hasPermission="user:update">
+        <a th:href="@{/user/update}">update</a>
+    </div>
+<p></p>
+<ul>
+<shiro:hasAnyRoles name ="user,admin">
+    <li>用户管理</li>
+    <ul>
+        <shiro:hasPermission name="user:add:*">
+            <li> <a th:href="@{/user/add}">增加</a></li>
+        </shiro:hasPermission>
+        <shiro:hasPermission name="user:update:*">
+            <li> <a th:href="@{/user/update}">修改</a></li>
+        </shiro:hasPermission>
+        <shiro:hasPermission name="user:delete:*">
+            <li> <a th:href="@{/user/delete}">删除</a></li>
+        </shiro:hasPermission>
+        <shiro:hasPermission name="user:find:*">
+            <li> <a th:href="@{/user/find}">查询</a></li>
+        </shiro:hasPermission>
+    </ul>
+
+</shiro:hasAnyRoles>
+</ul>
+</body>
+</html>

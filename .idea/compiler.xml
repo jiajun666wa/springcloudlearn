@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-API" />
+        <module name="springcloud-Eureka-7001" />
+        <module name="springCloud-provider" />
+        <module name="springLearn" />
+        <module name="mybatis" />
+        <module name="springboot-shiro3" />
+        <module name="javalearn" />
+        <module name="springCloud-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="javalearn" target="8" />
+      <module name="mybatis" target="1.5" />
+      <module name="springboot-shiro3" target="7" />
+      <module name="springcloud-API" target="1.5" />
+      <module name="springCloud-consumer" target="1.5" />
+      <module name="springcloud-Eureka-7001" target="1.5" />
+      <module name="springCloud-provider" target="1.5" />
+      <module name="springcloudlearn" target="1.5" />
+      <module name="springLearn" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springCloud-consumer" options="" />
+      <module name="springCloud-provider" options="" />
+      <module name="springLearn" options="-parameters" />
+      <module name="springboot-shiro3" options="" />
+      <module name="springcloud-API" options="" />
+      <module name="springcloud-Eureka-7001" options="" />
+      <module name="springcloudlearn" options="" />
+    </option>
+  </component>
+</project>

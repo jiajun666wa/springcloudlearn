@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javalearn/javalearn.iml" filepath="$PROJECT_DIR$/javalearn/javalearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-consumer/springCloud-consumer.iml" filepath="$PROJECT_DIR$/springCloud-consumer/springCloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-provider/springCloud-provider.iml" filepath="$PROJECT_DIR$/springCloud-provider/springCloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springLearn/springLearn.iml" filepath="$PROJECT_DIR$/springLearn/springLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-shiro3/springboot-shiro3.iml" filepath="$PROJECT_DIR$/springboot-shiro3/springboot-shiro3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-API/springcloud-API.iml" filepath="$PROJECT_DIR$/springcloud-API/springcloud-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-Eureka-7001/springcloud-Eureka-7001.iml" filepath="$PROJECT_DIR$/springcloud-Eureka-7001/springcloud-Eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudlearn.iml" filepath="$PROJECT_DIR$/springcloudlearn.iml" />
+    </modules>
+  </component>
+</project>

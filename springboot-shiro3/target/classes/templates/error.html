@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>错误页面</title>
+</head>
+<h1><p style="color: red" >错误页面</p>
+    <a th:href="@{/}" class="btn btn-primary">Go Home</a></h1>
+<h3 style="color: chocolate" >timestamp=<span   th:text="${timestamp}"></span></h3>
+<h3 style="color: chocolate" >status=<span   th:text="${status}"></span></h3>
+<h3 style="color: chocolate" >error=<span   th:text="${error}"></span></h3>
+<h3 style="color: chocolate" >message=<span th:text="${message}"></span></h3>
+<h3 style="color: chocolate" >path=<span th:text="${path}"></span></h3>
+
+</body>
+</html>

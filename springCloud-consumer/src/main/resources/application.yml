@@ -1,0 +1,34 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: springCloud-consumer
+#Eureka配置
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    instanceId: springCloud-consumer-9001 #修改eureka上的Status信息
+    appname: consumer9001
+#监控信息
+#management:
+#  security:
+#    enabled: false
+#  endpoints:
+#      web:
+#        exposure:
+#          include: "*"
+#  endpoint:
+#    health:
+#      show-details: always
+#    info:
+#      enabled: true
+info:
+  app.name: abcd
+
+name: "kuang \n shen"
+
+

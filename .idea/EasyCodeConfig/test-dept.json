@@ -1,0 +1,35 @@
+{
+  "name" : "Dept",
+  "originTableName" : "dept",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "deptno",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Int",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "dname",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "dbSource",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.whj.mybatiscodehelper",
+  "savePath" : "./javalearn/src/main/java/com/whj/mybatiscodehelper",
+  "saveModelName" : "javalearn"
+}

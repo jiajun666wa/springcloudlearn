@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="235785db-afe6-4f56-ac0e-7ccb4b3e1c7d" name="Changes" comment="测试提交测试提交测试提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="HTML File" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springcloudlearn" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21onvCJALfHw1kgFoxpIJYKT1xl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/springboot-shiro3/src/test/java/com/example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javalearn/src/main/java/com/whj/mybatiscodehelper" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\learnCodeForSpringCloud\springcloudlearn\springboot-shiro3\target\classes\templates" />
+      <recent name="D:\software\learnCodeForSpringCloud\springcloudlearn\springboot-shiro3\src\main\resources\templates" />
+      <recent name="D:\software\learnCodeForSpringCloud\springcloudlearn\springboot-shiro\target\classes\com" />
+      <recent name="D:\software\learnCodeForSpringCloud\springcloudlearn\springboot-shiro\target\classes" />
+      <recent name="D:\software\learnCodeForSpringCloud\springcloudlearn\springbootshiro\src\main\java\com\example\springbootshiro" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\software\learnCodeForSpringCloud\springcloudlearn\mybatis\src\main\resources\mapper" />
+      <recent name="D:\software\learnCodeForSpringCloud\springcloudlearn\mybatis\src\main\resources" />
+      <recent name="D:\software\learnCodeForSpringCloud\springcloudlearn\springCloud-provider\src\main\resources\mybatis\mapper" />
+      <recent name="D:\software\learnCodeForSpringCloud\springcloudlearn\springCloud-provider\src\main\resources\mybatis" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example" />
+      <recent name="" />
+      <recent name="com" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ThreadGetResult">
+    <configuration name="AAA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whj.juc.AAA" />
+      <module name="javalearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whj.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whj.dynamicproxy.DynamicProxyDemo" />
+      <module name="javalearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whj.dynamicproxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronousQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whj.juc.SynchronousQueueDemo" />
+      <module name="javalearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whj.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLombok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whj.lombok.TestLombok" />
+      <module name="javalearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whj.lombok.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadGetResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whj.threadxx.ThreadGetResult" />
+      <module name="javalearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whj.threadxx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springLearn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootShiro3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-shiro3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringbootShiro3Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DynamicProxyDemo" />
+      <item itemvalue="Application.SynchronousQueueDemo" />
+      <item itemvalue="Application.AAA" />
+      <item itemvalue="Application.TestLombok" />
+      <item itemvalue="Application.ThreadGetResult" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.SpringbootShiro3Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadGetResult" />
+        <item itemvalue="Application.TestLombok" />
+        <item itemvalue="Application.AAA" />
+        <item itemvalue="Application.SynchronousQueueDemo" />
+        <item itemvalue="Application.DynamicProxyDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="235785db-afe6-4f56-ac0e-7ccb4b3e1c7d" name="Changes" comment="" />
+      <created>1638616535998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638616535998</updated>
+      <workItem from="1638616539633" duration="16156000" />
+      <workItem from="1638633092719" duration="13414000" />
+      <workItem from="1638678305099" duration="2190000" />
+      <workItem from="1638680541138" duration="860000" />
+      <workItem from="1638681450770" duration="14328000" />
+      <workItem from="1638696261734" duration="5822000" />
+      <workItem from="1638764119035" duration="17629000" />
+      <workItem from="1638848495450" duration="1991000" />
+      <workItem from="1638850758260" duration="18873000" />
+      <workItem from="1639211274983" duration="4908000" />
+      <workItem from="1639216431323" duration="8217000" />
+      <workItem from="1639308385045" duration="5008000" />
+      <workItem from="1639313967231" duration="836000" />
+      <workItem from="1639315595216" duration="2481000" />
+      <workItem from="1639318144165" duration="5714000" />
+      <workItem from="1639323927576" duration="1830000" />
+      <workItem from="1639325791014" duration="11207000" />
+      <workItem from="1639371239916" duration="55071000" />
+      <workItem from="1640140071025" duration="37409000" />
+      <workItem from="1640396202075" duration="23314000" />
+      <workItem from="1640453053099" duration="32220000" />
+      <workItem from="1640658308363" duration="683000" />
+      <workItem from="1640743230885" duration="10691000" />
+      <workItem from="1640916028734" duration="10849000" />
+      <workItem from="1641356082462" duration="9271000" />
+      <workItem from="1641698021949" duration="1488000" />
+      <workItem from="1641699554759" duration="5769000" />
+      <workItem from="1642213932264" duration="7250000" />
+      <workItem from="1642257818929" duration="1064000" />
+      <workItem from="1642293993732" duration="4768000" />
+    </task>
+    <task id="LOCAL-00001" summary="ssssss">
+      <created>1642253327289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642253327289</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ssssss">
+      <created>1642253677040</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642253677040</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ssssss">
+      <created>1642253680693</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642253680693</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试提交">
+      <created>1642256195481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642256195481</updated>
+    </task>
+    <task id="LOCAL-00005" summary="测试提交测试提交测试提交">
+      <created>1642256527944</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642256527944</updated>
+    </task>
+    <task id="LOCAL-00006" summary="测试提交测试提交测试提交">
+      <created>1642256881778</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642256881778</updated>
+    </task>
+    <task id="LOCAL-00007" summary="测试提交测试提交测试提交">
+      <created>1642257512599</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642257512599</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="0693dff2-972d-4ec0-b641-c897bf6e82f6">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="0693dff2-972d-4ec0-b641-c897bf6e82f6" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="ssssss" />
+    <MESSAGE value="测试提交" />
+    <MESSAGE value="测试提交测试提交测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交测试提交测试提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javalearn/src/main/java/com/whj/dynamicproxy/DynamicProxyDemo.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javalearn/src/main/java/com/whj/dynamicproxy/DynamicProxyDemo.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javalearn/src/main/java/com/whj/dynamicproxy/DynamicProxyDemo.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javalearn/src/main/java/com/whj/dynamicproxy/DynamicProxyHandler.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/reflect/Proxy.java</url>
+          <line>707</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="deptService" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springcloudlearn$ShiroApplication.ic" NAME="ShiroApplication Coverage Results" MODIFIED="1639317829848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
