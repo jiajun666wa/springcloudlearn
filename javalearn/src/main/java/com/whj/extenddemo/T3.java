@@ -8,12 +8,11 @@ package com.whj.extenddemo;
  */
 public class T3 {
     public static void main(String[] args) {
-<<<<<<< HEAD
+
         System.out.println("1111");
         System.out.println("1111");
 
-=======
->>>>>>> parent of ebe03d0 (测试提交测试提交测试提交)
+        System.out.println("测试提交");
 
     }
 }
