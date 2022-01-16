@@ -10,7 +10,7 @@ public class T3 {
     public static void main(String[] args) {
 
         System.out.println("1111");
-        System.out.println("1111");
+        System.out.println("111  1");
 
         System.out.println("测试提交");
 
